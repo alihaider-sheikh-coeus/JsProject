@@ -1,0 +1,28 @@
+.text_fields input lable p {
+    float: left;
+    padding-top: 20px;
+    display: inline-block;
+}
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+#total_cal
+{
+    display: none;
+}
+#reset
+{
+    display: none;
+}
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
